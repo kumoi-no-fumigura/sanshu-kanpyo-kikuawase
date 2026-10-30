@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/sanshu-kanpyo-kikuawase",
  "yomi": "かんぴょうのおおんときのきくあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "物合（菊合）",
+  "era": "寛平年間（889〜898）",
+  "author": "主催 宇多天皇",
+  "desc": "宇多天皇のもとでの菊合。洲浜に菊を植え、山崎・嵯峨大沢池など名所の名を付けて歌を結び付けたことを記す。現存最古級の物合の一つ。"
+ },
  "editions": [
   {
    "pid": "1128193",
